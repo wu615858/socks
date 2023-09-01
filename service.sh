@@ -1,9 +1,9 @@
 #!/bin/bash
 #Set PATH
 
-resName="wyx176"
+resName="wu615858"
 serviceFile=/etc/opt/ss5/service.sh
-newVersionMsg=`curl -s -L  https://raw.githubusercontent.com/${resName}/Socks5/master/update.txt`
+newVersionMsg=`curl -s -L  https://raw.githubusercontent.com/${resName}/socks/master/update.txt`
 
 echo ""
 echo "1.启动"
